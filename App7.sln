@@ -1,0 +1,123 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 14
+VisualStudioVersion = 14.0.25123.0
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "App7.iOS", "App7\App7.iOS\App7.iOS.csproj", "{12BF92F1-F1C6-4575-807E-65397AF5D7D3}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "App7.UWP", "App7\App7.UWP\App7.UWP.csproj", "{CF5F9797-D5FE-4653-830D-5FCF9132787F}"
+EndProject
+Project("{D954291E-2A0B-460D-934E-DC6B0785DB48}") = "App7", "App7\App7\App7.shproj", "{F7BFD643-975B-4324-9193-493D117FB1F9}"
+EndProject
+Global
+	GlobalSection(SharedMSBuildProjectFiles) = preSolution
+		App7\App7\App7.projitems*{f7bfd643-975b-4324-9193-493d117fb1f9}*SharedItemsImports = 13
+	EndGlobalSection
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Ad-Hoc|ARM = Ad-Hoc|ARM
+		Ad-Hoc|iPhone = Ad-Hoc|iPhone
+		Ad-Hoc|iPhoneSimulator = Ad-Hoc|iPhoneSimulator
+		Ad-Hoc|x64 = Ad-Hoc|x64
+		Ad-Hoc|x86 = Ad-Hoc|x86
+		AppStore|ARM = AppStore|ARM
+		AppStore|iPhone = AppStore|iPhone
+		AppStore|iPhoneSimulator = AppStore|iPhoneSimulator
+		AppStore|x64 = AppStore|x64
+		AppStore|x86 = AppStore|x86
+		Debug|ARM = Debug|ARM
+		Debug|iPhone = Debug|iPhone
+		Debug|iPhoneSimulator = Debug|iPhoneSimulator
+		Debug|x64 = Debug|x64
+		Debug|x86 = Debug|x86
+		Release|ARM = Release|ARM
+		Release|iPhone = Release|iPhone
+		Release|iPhoneSimulator = Release|iPhoneSimulator
+		Release|x64 = Release|x64
+		Release|x86 = Release|x86
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{12BF92F1-F1C6-4575-807E-65397AF5D7D3}.Ad-Hoc|ARM.ActiveCfg = Ad-Hoc|iPhone
+		{12BF92F1-F1C6-4575-807E-65397AF5D7D3}.Ad-Hoc|iPhone.ActiveCfg = Ad-Hoc|iPhone
+		{12BF92F1-F1C6-4575-807E-65397AF5D7D3}.Ad-Hoc|iPhone.Build.0 = Ad-Hoc|iPhone
+		{12BF92F1-F1C6-4575-807E-65397AF5D7D3}.Ad-Hoc|iPhoneSimulator.ActiveCfg = Ad-Hoc|iPhoneSimulator
+		{12BF92F1-F1C6-4575-807E-65397AF5D7D3}.Ad-Hoc|iPhoneSimulator.Build.0 = Ad-Hoc|iPhoneSimulator
+		{12BF92F1-F1C6-4575-807E-65397AF5D7D3}.Ad-Hoc|x64.ActiveCfg = Ad-Hoc|iPhone
+		{12BF92F1-F1C6-4575-807E-65397AF5D7D3}.Ad-Hoc|x86.ActiveCfg = Ad-Hoc|iPhone
+		{12BF92F1-F1C6-4575-807E-65397AF5D7D3}.AppStore|ARM.ActiveCfg = AppStore|iPhone
+		{12BF92F1-F1C6-4575-807E-65397AF5D7D3}.AppStore|iPhone.ActiveCfg = AppStore|iPhone
+		{12BF92F1-F1C6-4575-807E-65397AF5D7D3}.AppStore|iPhone.Build.0 = AppStore|iPhone
+		{12BF92F1-F1C6-4575-807E-65397AF5D7D3}.AppStore|iPhoneSimulator.ActiveCfg = AppStore|iPhoneSimulator
+		{12BF92F1-F1C6-4575-807E-65397AF5D7D3}.AppStore|iPhoneSimulator.Build.0 = AppStore|iPhoneSimulator
+		{12BF92F1-F1C6-4575-807E-65397AF5D7D3}.AppStore|x64.ActiveCfg = AppStore|iPhone
+		{12BF92F1-F1C6-4575-807E-65397AF5D7D3}.AppStore|x86.ActiveCfg = AppStore|iPhone
+		{12BF92F1-F1C6-4575-807E-65397AF5D7D3}.Debug|ARM.ActiveCfg = Debug|iPhone
+		{12BF92F1-F1C6-4575-807E-65397AF5D7D3}.Debug|iPhone.ActiveCfg = Debug|iPhone
+		{12BF92F1-F1C6-4575-807E-65397AF5D7D3}.Debug|iPhone.Build.0 = Debug|iPhone
+		{12BF92F1-F1C6-4575-807E-65397AF5D7D3}.Debug|iPhoneSimulator.ActiveCfg = Debug|iPhoneSimulator
+		{12BF92F1-F1C6-4575-807E-65397AF5D7D3}.Debug|iPhoneSimulator.Build.0 = Debug|iPhoneSimulator
+		{12BF92F1-F1C6-4575-807E-65397AF5D7D3}.Debug|x64.ActiveCfg = Debug|iPhone
+		{12BF92F1-F1C6-4575-807E-65397AF5D7D3}.Debug|x86.ActiveCfg = Debug|iPhone
+		{12BF92F1-F1C6-4575-807E-65397AF5D7D3}.Release|ARM.ActiveCfg = Release|iPhone
+		{12BF92F1-F1C6-4575-807E-65397AF5D7D3}.Release|iPhone.ActiveCfg = Release|iPhone
+		{12BF92F1-F1C6-4575-807E-65397AF5D7D3}.Release|iPhone.Build.0 = Release|iPhone
+		{12BF92F1-F1C6-4575-807E-65397AF5D7D3}.Release|iPhoneSimulator.ActiveCfg = Release|iPhoneSimulator
+		{12BF92F1-F1C6-4575-807E-65397AF5D7D3}.Release|iPhoneSimulator.Build.0 = Release|iPhoneSimulator
+		{12BF92F1-F1C6-4575-807E-65397AF5D7D3}.Release|x64.ActiveCfg = Release|iPhone
+		{12BF92F1-F1C6-4575-807E-65397AF5D7D3}.Release|x86.ActiveCfg = Release|iPhone
+		{CF5F9797-D5FE-4653-830D-5FCF9132787F}.Ad-Hoc|ARM.ActiveCfg = Release|ARM
+		{CF5F9797-D5FE-4653-830D-5FCF9132787F}.Ad-Hoc|ARM.Build.0 = Release|ARM
+		{CF5F9797-D5FE-4653-830D-5FCF9132787F}.Ad-Hoc|ARM.Deploy.0 = Release|ARM
+		{CF5F9797-D5FE-4653-830D-5FCF9132787F}.Ad-Hoc|iPhone.ActiveCfg = Release|x86
+		{CF5F9797-D5FE-4653-830D-5FCF9132787F}.Ad-Hoc|iPhone.Build.0 = Release|x86
+		{CF5F9797-D5FE-4653-830D-5FCF9132787F}.Ad-Hoc|iPhone.Deploy.0 = Release|x86
+		{CF5F9797-D5FE-4653-830D-5FCF9132787F}.Ad-Hoc|iPhoneSimulator.ActiveCfg = Release|x86
+		{CF5F9797-D5FE-4653-830D-5FCF9132787F}.Ad-Hoc|iPhoneSimulator.Build.0 = Release|x86
+		{CF5F9797-D5FE-4653-830D-5FCF9132787F}.Ad-Hoc|iPhoneSimulator.Deploy.0 = Release|x86
+		{CF5F9797-D5FE-4653-830D-5FCF9132787F}.Ad-Hoc|x64.ActiveCfg = Release|x64
+		{CF5F9797-D5FE-4653-830D-5FCF9132787F}.Ad-Hoc|x64.Build.0 = Release|x64
+		{CF5F9797-D5FE-4653-830D-5FCF9132787F}.Ad-Hoc|x64.Deploy.0 = Release|x64
+		{CF5F9797-D5FE-4653-830D-5FCF9132787F}.Ad-Hoc|x86.ActiveCfg = Release|x86
+		{CF5F9797-D5FE-4653-830D-5FCF9132787F}.Ad-Hoc|x86.Build.0 = Release|x86
+		{CF5F9797-D5FE-4653-830D-5FCF9132787F}.Ad-Hoc|x86.Deploy.0 = Release|x86
+		{CF5F9797-D5FE-4653-830D-5FCF9132787F}.AppStore|ARM.ActiveCfg = Release|ARM
+		{CF5F9797-D5FE-4653-830D-5FCF9132787F}.AppStore|ARM.Build.0 = Release|ARM
+		{CF5F9797-D5FE-4653-830D-5FCF9132787F}.AppStore|ARM.Deploy.0 = Release|ARM
+		{CF5F9797-D5FE-4653-830D-5FCF9132787F}.AppStore|iPhone.ActiveCfg = Release|x86
+		{CF5F9797-D5FE-4653-830D-5FCF9132787F}.AppStore|iPhone.Build.0 = Release|x86
+		{CF5F9797-D5FE-4653-830D-5FCF9132787F}.AppStore|iPhone.Deploy.0 = Release|x86
+		{CF5F9797-D5FE-4653-830D-5FCF9132787F}.AppStore|iPhoneSimulator.ActiveCfg = Release|x86
+		{CF5F9797-D5FE-4653-830D-5FCF9132787F}.AppStore|iPhoneSimulator.Build.0 = Release|x86
+		{CF5F9797-D5FE-4653-830D-5FCF9132787F}.AppStore|iPhoneSimulator.Deploy.0 = Release|x86
+		{CF5F9797-D5FE-4653-830D-5FCF9132787F}.AppStore|x64.ActiveCfg = Release|x64
+		{CF5F9797-D5FE-4653-830D-5FCF9132787F}.AppStore|x64.Build.0 = Release|x64
+		{CF5F9797-D5FE-4653-830D-5FCF9132787F}.AppStore|x64.Deploy.0 = Release|x64
+		{CF5F9797-D5FE-4653-830D-5FCF9132787F}.AppStore|x86.ActiveCfg = Release|x86
+		{CF5F9797-D5FE-4653-830D-5FCF9132787F}.AppStore|x86.Build.0 = Release|x86
+		{CF5F9797-D5FE-4653-830D-5FCF9132787F}.AppStore|x86.Deploy.0 = Release|x86
+		{CF5F9797-D5FE-4653-830D-5FCF9132787F}.Debug|ARM.ActiveCfg = Debug|ARM
+		{CF5F9797-D5FE-4653-830D-5FCF9132787F}.Debug|ARM.Build.0 = Debug|ARM
+		{CF5F9797-D5FE-4653-830D-5FCF9132787F}.Debug|ARM.Deploy.0 = Debug|ARM
+		{CF5F9797-D5FE-4653-830D-5FCF9132787F}.Debug|iPhone.ActiveCfg = Debug|x86
+		{CF5F9797-D5FE-4653-830D-5FCF9132787F}.Debug|iPhoneSimulator.ActiveCfg = Debug|x86
+		{CF5F9797-D5FE-4653-830D-5FCF9132787F}.Debug|x64.ActiveCfg = Debug|x64
+		{CF5F9797-D5FE-4653-830D-5FCF9132787F}.Debug|x64.Build.0 = Debug|x64
+		{CF5F9797-D5FE-4653-830D-5FCF9132787F}.Debug|x64.Deploy.0 = Debug|x64
+		{CF5F9797-D5FE-4653-830D-5FCF9132787F}.Debug|x86.ActiveCfg = Debug|x86
+		{CF5F9797-D5FE-4653-830D-5FCF9132787F}.Debug|x86.Build.0 = Debug|x86
+		{CF5F9797-D5FE-4653-830D-5FCF9132787F}.Debug|x86.Deploy.0 = Debug|x86
+		{CF5F9797-D5FE-4653-830D-5FCF9132787F}.Release|ARM.ActiveCfg = Release|ARM
+		{CF5F9797-D5FE-4653-830D-5FCF9132787F}.Release|ARM.Build.0 = Release|ARM
+		{CF5F9797-D5FE-4653-830D-5FCF9132787F}.Release|ARM.Deploy.0 = Release|ARM
+		{CF5F9797-D5FE-4653-830D-5FCF9132787F}.Release|iPhone.ActiveCfg = Release|x86
+		{CF5F9797-D5FE-4653-830D-5FCF9132787F}.Release|iPhoneSimulator.ActiveCfg = Release|x86
+		{CF5F9797-D5FE-4653-830D-5FCF9132787F}.Release|x64.ActiveCfg = Release|x64
+		{CF5F9797-D5FE-4653-830D-5FCF9132787F}.Release|x64.Build.0 = Release|x64
+		{CF5F9797-D5FE-4653-830D-5FCF9132787F}.Release|x64.Deploy.0 = Release|x64
+		{CF5F9797-D5FE-4653-830D-5FCF9132787F}.Release|x86.ActiveCfg = Release|x86
+		{CF5F9797-D5FE-4653-830D-5FCF9132787F}.Release|x86.Build.0 = Release|x86
+		{CF5F9797-D5FE-4653-830D-5FCF9132787F}.Release|x86.Deploy.0 = Release|x86
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
